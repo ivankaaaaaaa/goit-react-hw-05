@@ -1,0 +1,18 @@
+.homePage {
+    padding-left: 24px;
+    color: #f2c9da;
+    margin-bottom: 24px;
+  }
+  
+  .movieList {
+    list-style: outside;
+  }
+  
+  .item {
+    color: black;
+  }
+  
+  .item:hover,
+  .item:focus {
+    color: #13a264;
+  }
